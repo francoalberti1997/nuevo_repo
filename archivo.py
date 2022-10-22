@@ -13,4 +13,7 @@ class Familia():
 
 victor = Familia("victor", "ortiz")
 
+leo = Familia("leo", "ortiz")
+
+
 print(victor.familiar())
