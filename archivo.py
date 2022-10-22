@@ -8,3 +8,9 @@ class Persona():
 
     def __str__(self):
         return("hola")
+
+
+
+a = Persona("franco", "alberti", 15)
+
+print(a.apellido)
