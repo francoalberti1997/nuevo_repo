@@ -5,3 +5,8 @@ class Persona():
         nombre = self.nombre
         apellido = self.apellido
         edad = self.edad
+
+    def __str__(self):
+        return("hola")
+
+    
